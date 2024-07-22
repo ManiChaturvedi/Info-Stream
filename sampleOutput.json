@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "James Dampney",
+            "title": "Big Ange linked with fallen EPL giants",
+            "description": "In a topsy-turvy debut season in the world’s most popular football league, Ange Postecoglou once again finds himself the flavour of the minute.",
+            "url": "https://www.news.com.au/sport/football/ange-postecoglou-has-been-linked-with-one-of-englands-biggest-clubs/news-story/9a1c507f08731972c7165ed211503a9d",
+            "urlToImage": "https://content.api.news/v3/images/bin/71ae8ed132234ac757f4ed0693f34ed5",
+            "publishedAt": "2023-12-19T09:54:00Z",
+            "content": "In a topsy-turvy debut season in the world’s most popular football league, Ange Postecoglou once again finds himself the flavour of the minute.\r\nThe Australian was feted after a record-breaking start… [+3004 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Latest football news, Club World Cup and EFL Cup build-up",
+            "description": "Chelsea, Newcastle and Everton are among teams involved in Carabao Cup quarter-finals on Tuesday while Manchester City play in the Club World Cup.",
+            "url": "http://www.bbc.co.uk/sport/live/football/67757919",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-12-19T07:37:22.9296713Z",
+            "content": "It's Christmas week, is that a thing?\r\nAs is always the case over the festive period, there's no shortage of football to feast on.\r\nWe've got three fixtures tonight in the Carabao Cup with the quarte… [+574 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Tim McManus",
+            "title": "Sirianni: In Eagles' 'best interest' to hand defense to Patricia - ESPN",
+            "description": "Eagles coach Nick Sirianni said he instituted the defensive shakeup \"in the best interest of the football team.\"",
+            "url": "https://www.espn.com/nfl/story/_/id/39144773/sirianni-eagles-best-interest-hand-defense-patricia",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1219%2Fr1268265_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-12-19T07:31:00Z",
+            "content": "SEATTLE -- A major shakeup in the Philadelphia Eagles' defensive coaching ranks appeared to have some positive effect Monday night against the Seattle Seahawks, but a unit that has struggled for much… [+2874 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Chris Flanagan",
+            "title": "Mary Earps becoming the second Lioness to win SPOTY would show the award is more relevant than ever",
+            "description": "Only six footballers have won BBC Sports Personality of the Year, but back-to-back female winners would be a statement",
+            "url": "https://www.fourfourtwo.com/news/mary-earps-becoming-the-second-successive-lioness-to-win-spoty-shows-the-award-is-more-relevant-than-ever",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwrJEtLrdL8bowKoxYo2kF-1200-80.jpg",
+            "publishedAt": "2023-12-19T07:00:16Z",
+            "content": "In each month of the year, there are always traditions. In April, Arsenal throw a season of great promise out of a window. In May, Manchester City win the league, and people celebrate by chasing a lu… [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Chris Bumbaca",
+            "title": "Ahmed Fareed to host 'Football Night in America' with Maria Taylor going on parental leave",
+            "description": "With Maria Taylor beginning parental leave, Ahmed Fareed will fill her place as host of NBC Sports' \"Football Night In America.\"",
+            "url": "https://www.usatoday.com/story/sports/nfl/2023/12/18/ahmed-fareed-replaces-maria-taylor-nbc-sports-nfl-studio-show/71965918007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/18/USAT/71966188007-usatsi-19005560.jpg?crop=8000,4501,x0,y416&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-19T00:13:15+00:00",
+            "content": "With Maria Taylor beginning parental leave it's a boy! this week, Ahmed Fareed will fill her place as host of \"Football Night In America\" for the remainder of the NFL regular season and playoffs.\r\nFa… [+1325 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tyler Dragon, Victoria Hernandez, Jim Reineking",
+            "title": "Eagles at Seahawks Monday Night Football live updates: Jalen Hurts and Drew Lock start",
+            "description": "The Eagles and Seahawks aim to snap their skids as they duke it out in front of Seattle's 12s. We’ll give updates and highlights throughout the night.",
+            "url": "https://www.usatoday.com/story/sports/nfl/2023/12/18/eagles-seahawks-monday-night-football-score-live-updates/71951331007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/19/USAT/71967063007-usatsi-22135229.jpg?crop=2984,1678,x0,y0&width=2984&height=1678&format=pjpg&auto=webp",
+            "publishedAt": "2023-12-18T23:41:36+00:00",
+            "content": "All eyes are on Jalen Hurts. \r\nAn illness had put the status of the Philadelphia Eagles' star quarterback in question for the teams Monday Night Football tilt against the Seattle Seahawks. Hurts rema… [+15331 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Eagles vs. Seahawks live updates: Top moments from Monday Night Football",
+            "description": "Week 15 of the <a href=\"https://www.foxsports.com/nfl\" target=\"_blank\"><u>NFL</u></a> season concludes with the <a href=\"https://www.foxsports.com/nfl/philadelphia-eagles-team\" target=\"_blank\">Philadelphia Eagles</a> battling the <a href=\"https://www.foxsport…",
+            "url": "http://www.foxsports.com/live-blog/nfl/eagles-vs-seahawks-live-updates-top-moments-from-monday-night-football",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/12/1408/814/12.13.23_NFL-Top-Plays_MNF_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-12-18T23:06:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Pete Thamel",
+            "title": "Dylan Raiola, No. 8 recruit for 2024, flips from Georgia to Nebraska - ESPN",
+            "description": "Quarterback Dylan Raiola, the No. 8 player in the 2024 ESPN 300 football recruiting rankings who had committed to Georgia, will instead flip to Nebraska.",
+            "url": "https://www.espn.com/college-sports/recruiting/football/story/_/id/39141863/dylan-raiola-no-8-recruit-2024-flips-georgia-nebraska",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0717%2Fr1198994_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-12-18T22:21:00Z",
+            "content": "Dylan Raiola, ESPN's top pocket-passing quarterback in the 2024 recruiting class, told ESPN on Monday he's switching his college commitment to Nebraska from Georgia.\r\nThe decision marks a potential s… [+4860 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Tom VanHaaren",
+            "title": "Ranking quarterbacks in 2023 NCAA football transfer portal - ESPN",
+            "description": "Let's rank the top available signal-callers in the transfer portal. No. 1 is a former five-star recruit. The others have starting experience.",
+            "url": "https://www.espn.com/college-football/insider/story/_/id/38999600/ranking-quarterbacks-2023-college-football-transfer-portal-best-available-commits",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1218%2Fr1267824_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-12-18T03:08:00Z",
+            "content": "College football's transfer portal window officially opened Dec. 4, but graduate players looking for new schools and players from teams whose coaches were fired are starting to stream into the databa… [+26441 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "161385360554578",
+            "title": "Rice rescues Arsenal, Arteta evades Raya question, more Premier League build-up",
+            "description": "talkSPORT.com brings you all the latest news, views and gossip from the world of football. Today’s headlines: Mikel Arteta dodges David Raya question after goalkeeper’s errors Declan Ri…",
+            "url": "https://talksport.com/football/1667216/football-news-live-arsenal-mikel-arteta-david-raya-premier-league/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/jw-TALKSPORT-BLOG-06-12.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-12-06T09:06:42Z",
+            "content": "Mikel Arteta didn't provide a straight answer when asked about David Raya's struggles during Arsenal's win at Luton.\r\nArsenal claimed a dramatic last-gasp win at Kenilworth Road with Declan Rice's st… [+1106 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Josh Fordham",
+            "title": "Tottenham fans feared relegation without Harry Kane but Ange Postecoglou has got them scoring more...",
+            "description": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you can’t blame them. Not only was he their record goalscorer, but also one of the best strikers in world football seaso…",
+            "url": "https://talksport.com/football/1666888/tottenham-goals-harry-kane-ange-postecoglou/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/Kane_Postecoglou-Comp.png?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-12-05T17:57:19Z",
+            "content": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you cant blame them.\r\nNot only was he their record goalscorer, but also one of the best strikers in world football season … [+2220 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
